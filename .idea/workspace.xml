@@ -59,22 +59,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="433" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607076947789" />
-    <state width="1877" height="144" key="GridCell.Tab.0.bottom" timestamp="1607081504543">
+    <state width="1877" height="86" key="GridCell.Tab.0.bottom" timestamp="1607083453851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="144" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607081504543" />
-    <state width="1877" height="144" key="GridCell.Tab.0.center" timestamp="1607081504542">
+    <state width="1877" height="86" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1607083453851" />
+    <state width="1877" height="86" key="GridCell.Tab.0.center" timestamp="1607083453851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="144" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607081504542" />
-    <state width="1877" height="144" key="GridCell.Tab.0.left" timestamp="1607081504542">
+    <state width="1877" height="86" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1607083453851" />
+    <state width="1877" height="86" key="GridCell.Tab.0.left" timestamp="1607083453851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="144" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607081504542" />
-    <state width="1877" height="144" key="GridCell.Tab.0.right" timestamp="1607081504542">
+    <state width="1877" height="86" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1607083453851" />
+    <state width="1877" height="86" key="GridCell.Tab.0.right" timestamp="1607083453851">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="144" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607081504542" />
+    <state width="1877" height="86" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1607083453851" />
     <state width="1877" height="246" key="GridCell.Tab.1.bottom" timestamp="1606840378559">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -99,19 +99,5 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="755" y="268" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607074526849" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/com/company/Flights.java</url>
-          <line>13</line>
-          <properties class="com.company.Flights" method="getDepartDate">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
